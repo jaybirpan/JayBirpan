@@ -16,11 +16,3 @@ I'm a first-year Computer Science Engineering student at Nutan Maharashtra Insti
 [![](https://visitcount.itsvg.in/api?id=jaybirpan&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
